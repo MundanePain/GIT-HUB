@@ -14,6 +14,11 @@ namespace COFFEE_Example_GIT
         {
             Console.WriteLine("Change 2");
         }
+
+        static void sssub(string[] args)
+        {
+            Console.WriteLine("Change 3");
+        }
     }
 
 }
