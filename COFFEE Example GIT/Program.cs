@@ -15,10 +15,21 @@ namespace COFFEE_Example_GIT
             Console.WriteLine("Change 2");
         }
 
-        static void sssub(string[] args)
+        static void Write(string[] args)
         {
             Console.WriteLine("Change 3");
         }
+    
+    static void ABC(string[] args)
+    {
+        Console.WriteLine("Coffshop Command Help Chnage");
     }
 
+
+
+
+
+
+
+    }
 }
